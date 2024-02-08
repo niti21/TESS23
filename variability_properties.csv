@@ -1,0 +1,23 @@
+S No.,TIC ID,Rotation Period (days),Variability Presence,Variability Type,SNR,Variational Amplitude (mag),Variation Type
+1,101255821,4.692406 d,Present,Eclipsing Binary or Pulsating Star,17.56,1.048099,Aperiodic
+2,101255849,2.214653 d,Present,Eclipsing Binary or Pulsating Star,663.30,3.528041,Aperiodic
+3,101255946,0.645737 d,Present,Eclipsing Binary or Pulsating Star,9.66,1.199024,Aperiodic
+4,101255979,0.645737 d,Present,Eclipsing Binary or Pulsating Star,256.01,nan,Aperiodic
+5,101256057,1.705903 d,Present,Eclipsing Binary or Pulsating Star,34.53,-2.185576,Aperiodic
+6,101256059,0.130956 d,Present,Eclipsing Binary or Pulsating Star,105.25,4.061598,Aperiodic
+7,101256070,5.442643 d,Present,Eclipsing Binary or Pulsating Star,82.12,1.131322,Aperiodic
+8,101256083,3.007776 d,Present,Eclipsing Binary or Pulsating Star,221.01,1.573846,Aperiodic
+9,101256093,16.327928 d,Present,Eclipsing Binary or Pulsating Star,303.90,-0.880076,Aperiodic
+10,101256131,0.003599 d,Present,Eclipsing Binary or Pulsating Star,3.81,0.136923,Periodic
+11,126098244,4.762312 d,Present,Eclipsing Binary or Pulsating Star,363.82,-0.021788,Aperiodic
+12,126098255,3.361632 d,Present,Eclipsing Binary or Pulsating Star,291.68,3.120224,Aperiodic
+13,126098275,2.241088 d,Present,Eclipsing Binary or Pulsating Star,7.25,0.446102,Aperiodic
+14,126098296,4.969369 d,Present,Eclipsing Binary or Pulsating Star,4.14,1.073954,Periodic
+15,126098303,0.003929 d,Present,Eclipsing Binary or Pulsating Star,3.67,-0.736388,Aperiodic
+16,126098356,6.015552 d,Present,Eclipsing Binary or Pulsating Star,402.87,3.541656,Aperiodic
+17,26390966,6.061491 d,Present,Eclipsing Binary or Pulsating Star,32.05,0.868262,Aperiodic
+18,26390994,3.174875 d,Present,Eclipsing Binary or Pulsating Star,49.21,2.476375,Aperiodic
+19,408195428,4.762312 d,Present,Eclipsing Binary or Pulsating Star,94.42,1.835095,Aperiodic
+20,101220458,7.166329 d,Present,Eclipsing Binary or Pulsating Star,50.21,-0.686494,Periodic
+21,504952282,2.218228 d,Present,Eclipsing Binary or Pulsating Star,178.67,2.690738,Aperiodic
+22,641706865,2.597625 d,Present,Eclipsing Binary or Pulsating Star,51.84,-0.849589,Periodic
